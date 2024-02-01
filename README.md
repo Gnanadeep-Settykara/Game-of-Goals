@@ -36,3 +36,11 @@ $ cd game-of-goals
 
 # Run the project (include any specific command)
 $ npm run dev
+```
+
+## Credits
+
+This project is built with the following technologies:
+
+- [Vite](https://vitejs.dev/) - Frontend build tool
+- [TypeScript](https://www.typescriptlang.org/) - Superset of JavaScript
