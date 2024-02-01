@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+@font-face {
+  font-family: 'GameOfThronesFont';
+  src: url('Game of Thrones.ttf') format('truetype');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -11,22 +16,32 @@
     left: -10000px;
 }
 
+.title {
+  font-family: 'GameOfThronesFont';
+  font-weight: normal;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
 input, 
 button {
     font: inherit;
 }
 
 html {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'GameOfThronesFont';
 }
 
 body {
-    min-height: 100vh;
-    background-color: #333;
+    background: url('bgimg.jpeg') center fixed;
+    background-color: rgba(51, 51, 51, 0.7);
+    min-height: 90vh;
     color: #fff;
     padding: 1rem;
     display: flex;
     flex-direction: column;
+    background-blend-mode: overlay;
 }
 
 main {
