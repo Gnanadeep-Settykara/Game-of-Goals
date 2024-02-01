@@ -2,9 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="Project Logo" alt="Game of Goals" width="200">
-  <br>
-  Game of Goals
+  <img src="./logo.jpeg" alt="Game of Goals" width="200">
   <br>
 </h1>
 
