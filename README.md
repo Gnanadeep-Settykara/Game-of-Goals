@@ -10,9 +10,6 @@
 
 <h4 align="center">A Game of Thrones themed To-Do list.</h4>
 
-<p align="center">
-  <!-- Add badges or shields here (if applicable) -->
-</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -21,7 +18,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](PROJECT_SCREENSHOT_URL)
+![screenshot](./screenshot.png)
 
 ## Key Features
 
