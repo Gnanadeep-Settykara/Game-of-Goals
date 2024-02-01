@@ -36,10 +36,5 @@ $ git clone https://github.com/YOUR_USERNAME/game-of-goals.git
 # Navigate to the project directory
 $ cd game-of-goals
 
-# [Include any additional steps for setup or configuration]
-
-# Open the project in your preferred code editor
-$ code .
-
 # Run the project (include any specific command)
 $ npm run dev
