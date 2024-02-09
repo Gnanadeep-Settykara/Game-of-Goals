@@ -5,7 +5,7 @@
   <img src="./logo.jpeg" alt="Game of Goals" width="200">
   <br>
 </h1>
-
+<h4 align="center">Access Website @<a href= "https://gnanadeep-settykara.github.io/Game-of-Goals/"> Game Of Goals!</a></h4>
 <h4 align="center">A Game of Thrones themed To-Do list.</h4>
 
 
